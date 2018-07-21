@@ -19,9 +19,9 @@ Venison pork loin meatball ham beef ribeye.
 
 ### Le Code
 
-```
-def bacon(yum)
-  return 'mmm'
+```python
+def foo(bar):
+    return baz, quux
 ```
 
 ### Lists
